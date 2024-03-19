@@ -1,0 +1,81 @@
+D:\Learn\Year 2\Ky II\GD2\Window\Code\Demo_QLNT\QLNT\bin\Debug\QLNT.exe.config
+D:\Learn\Year 2\Ky II\GD2\Window\Code\Demo_QLNT\QLNT\bin\Debug\QLNT.exe
+D:\Learn\Year 2\Ky II\GD2\Window\Code\Demo_QLNT\QLNT\bin\Debug\QLNT.pdb
+D:\Learn\Year 2\Ky II\GD2\Window\Code\Demo_QLNT\QLNT\obj\Debug\QLNT.csproj.AssemblyReference.cache
+D:\Learn\Year 2\Ky II\GD2\Window\Code\Demo_QLNT\QLNT\obj\Debug\QLNT.csproj.SuggestedBindingRedirects.cache
+D:\Learn\Year 2\Ky II\GD2\Window\Code\Demo_QLNT\QLNT\obj\Debug\QLNT.Form1.resources
+D:\Learn\Year 2\Ky II\GD2\Window\Code\Demo_QLNT\QLNT\obj\Debug\QLNT.Properties.Resources.resources
+D:\Learn\Year 2\Ky II\GD2\Window\Code\Demo_QLNT\QLNT\obj\Debug\QLNT.csproj.GenerateResource.cache
+D:\Learn\Year 2\Ky II\GD2\Window\Code\Demo_QLNT\QLNT\obj\Debug\QLNT.csproj.CoreCompileInputs.cache
+D:\Learn\Year 2\Ky II\GD2\Window\Code\Demo_QLNT\QLNT\obj\Debug\QLNT.exe
+D:\Learn\Year 2\Ky II\GD2\Window\Code\Demo_QLNT\QLNT\obj\Debug\QLNT.pdb
+D:\Learn\Year 2\Ky II\GD2\Window\Code\Demo_QLNT\QLNT\obj\Debug\QLNT.Form2.resources
+D:\Learn\Year 2\Ky II\GD2\Window\Code\Demo_QLNT\QLNT\obj\Debug\QLNT.Form3.resources
+D:\Learn\Year 2\Ky II\GD2\Window\Code\QLNT\QLNT\bin\Debug\QLNT.exe.config
+D:\Learn\Year 2\Ky II\GD2\Window\Code\QLNT\QLNT\bin\Debug\QLNT.exe
+D:\Learn\Year 2\Ky II\GD2\Window\Code\QLNT\QLNT\bin\Debug\QLNT.pdb
+D:\Learn\Year 2\Ky II\GD2\Window\Code\QLNT\QLNT\obj\Debug\QLNT.csproj.AssemblyReference.cache
+D:\Learn\Year 2\Ky II\GD2\Window\Code\QLNT\QLNT\obj\Debug\QLNT.csproj.SuggestedBindingRedirects.cache
+D:\Learn\Year 2\Ky II\GD2\Window\Code\QLNT\QLNT\obj\Debug\QLNT.Form1.resources
+D:\Learn\Year 2\Ky II\GD2\Window\Code\QLNT\QLNT\obj\Debug\QLNT.Form2.resources
+D:\Learn\Year 2\Ky II\GD2\Window\Code\QLNT\QLNT\obj\Debug\QLNT.Form3.resources
+D:\Learn\Year 2\Ky II\GD2\Window\Code\QLNT\QLNT\obj\Debug\QLNT.Properties.Resources.resources
+D:\Learn\Year 2\Ky II\GD2\Window\Code\QLNT\QLNT\obj\Debug\QLNT.csproj.GenerateResource.cache
+D:\Learn\Year 2\Ky II\GD2\Window\Code\QLNT\QLNT\obj\Debug\QLNT.csproj.CoreCompileInputs.cache
+D:\Learn\Year 2\Ky II\GD2\Window\Code\QLNT\QLNT\obj\Debug\QLNT.exe
+D:\Learn\Year 2\Ky II\GD2\Window\Code\QLNT\QLNT\obj\Debug\QLNT.pdb
+D:\Learn\Year 2\Ky II\GD2\Window\Code\New folder\QLNT\QLNT\bin\Debug\QLNT.exe.config
+D:\Learn\Year 2\Ky II\GD2\Window\Code\New folder\QLNT\QLNT\bin\Debug\QLNT.exe
+D:\Learn\Year 2\Ky II\GD2\Window\Code\New folder\QLNT\QLNT\bin\Debug\QLNT.pdb
+D:\Learn\Year 2\Ky II\GD2\Window\Code\New folder\QLNT\QLNT\obj\Debug\QLNT.csproj.AssemblyReference.cache
+D:\Learn\Year 2\Ky II\GD2\Window\Code\New folder\QLNT\QLNT\obj\Debug\QLNT.csproj.SuggestedBindingRedirects.cache
+D:\Learn\Year 2\Ky II\GD2\Window\Code\New folder\QLNT\QLNT\obj\Debug\QLNT.Form1.resources
+D:\Learn\Year 2\Ky II\GD2\Window\Code\New folder\QLNT\QLNT\obj\Debug\QLNT.Form2.resources
+D:\Learn\Year 2\Ky II\GD2\Window\Code\New folder\QLNT\QLNT\obj\Debug\QLNT.Form3.resources
+D:\Learn\Year 2\Ky II\GD2\Window\Code\New folder\QLNT\QLNT\obj\Debug\QLNT.Login.resources
+D:\Learn\Year 2\Ky II\GD2\Window\Code\New folder\QLNT\QLNT\obj\Debug\QLNT.Properties.Resources.resources
+D:\Learn\Year 2\Ky II\GD2\Window\Code\New folder\QLNT\QLNT\obj\Debug\QLNT.csproj.GenerateResource.cache
+D:\Learn\Year 2\Ky II\GD2\Window\Code\New folder\QLNT\QLNT\obj\Debug\QLNT.csproj.CoreCompileInputs.cache
+D:\Learn\Year 2\Ky II\GD2\Window\Code\New folder\QLNT\QLNT\obj\Debug\QLNT.exe
+D:\Learn\Year 2\Ky II\GD2\Window\Code\New folder\QLNT\QLNT\obj\Debug\QLNT.pdb
+D:\Learn\Year 2\Ky II\GD2\Window\Code\QLNT\QLNT\obj\Debug\QLNT.Login.resources
+D:\Learn\Year_2\Ky II\GD2\Window\Code\BTL\QLNT\QLNT\bin\Debug\QLNT.exe.config
+D:\Learn\Year_2\Ky II\GD2\Window\Code\BTL\QLNT\QLNT\bin\Debug\QLNT.exe
+D:\Learn\Year_2\Ky II\GD2\Window\Code\BTL\QLNT\QLNT\bin\Debug\QLNT.pdb
+D:\Learn\Year_2\Ky II\GD2\Window\Code\BTL\QLNT\QLNT\obj\Debug\QLNT.csproj.AssemblyReference.cache
+D:\Learn\Year_2\Ky II\GD2\Window\Code\BTL\QLNT\QLNT\obj\Debug\QLNT.csproj.SuggestedBindingRedirects.cache
+D:\Learn\Year_2\Ky II\GD2\Window\Code\BTL\QLNT\QLNT\obj\Debug\QLNT.Form1.resources
+D:\Learn\Year_2\Ky II\GD2\Window\Code\BTL\QLNT\QLNT\obj\Debug\QLNT.Form2.resources
+D:\Learn\Year_2\Ky II\GD2\Window\Code\BTL\QLNT\QLNT\obj\Debug\QLNT.Form3.resources
+D:\Learn\Year_2\Ky II\GD2\Window\Code\BTL\QLNT\QLNT\obj\Debug\QLNT.Login.resources
+D:\Learn\Year_2\Ky II\GD2\Window\Code\BTL\QLNT\QLNT\obj\Debug\QLNT.Properties.Resources.resources
+D:\Learn\Year_2\Ky II\GD2\Window\Code\BTL\QLNT\QLNT\obj\Debug\QLNT.csproj.GenerateResource.cache
+D:\Learn\Year_2\Ky II\GD2\Window\Code\BTL\QLNT\QLNT\obj\Debug\QLNT.csproj.CoreCompileInputs.cache
+D:\Learn\Year_2\Ky II\GD2\Window\Code\BTL\QLNT\QLNT\obj\Debug\QLNT.exe
+D:\Learn\Year_2\Ky II\GD2\Window\Code\BTL\QLNT\QLNT\obj\Debug\QLNT.pdb
+D:\qlnt\qlnt\QLNT\QLNT\bin\Debug\QLNT.exe.config
+D:\qlnt\qlnt\QLNT\QLNT\bin\Debug\QLNT.exe
+D:\qlnt\qlnt\QLNT\QLNT\bin\Debug\QLNT.pdb
+D:\qlnt\qlnt\QLNT\QLNT\obj\Debug\QLNT.csproj.AssemblyReference.cache
+D:\qlnt\qlnt\QLNT\QLNT\obj\Debug\QLNT.Form1.resources
+D:\qlnt\qlnt\QLNT\QLNT\obj\Debug\QLNT.Form2.resources
+D:\qlnt\qlnt\QLNT\QLNT\obj\Debug\QLNT.Form3.resources
+D:\qlnt\qlnt\QLNT\QLNT\obj\Debug\QLNT.Login.resources
+D:\qlnt\qlnt\QLNT\QLNT\obj\Debug\QLNT.Properties.Resources.resources
+D:\qlnt\qlnt\QLNT\QLNT\obj\Debug\QLNT.csproj.GenerateResource.cache
+D:\qlnt\qlnt\QLNT\QLNT\obj\Debug\QLNT.csproj.CoreCompileInputs.cache
+D:\qlnt\qlnt\QLNT\QLNT\obj\Debug\QLNT.exe
+D:\qlnt\qlnt\QLNT\QLNT\obj\Debug\QLNT.pdb
+H:\qlnt\qlnt\QLNT\QLNT\bin\Debug\QLNT.exe.config
+H:\qlnt\qlnt\QLNT\QLNT\bin\Debug\QLNT.exe
+H:\qlnt\qlnt\QLNT\QLNT\bin\Debug\QLNT.pdb
+H:\qlnt\qlnt\QLNT\QLNT\obj\Debug\QLNT.csproj.AssemblyReference.cache
+H:\qlnt\qlnt\QLNT\QLNT\obj\Debug\QLNT.Form1.resources
+H:\qlnt\qlnt\QLNT\QLNT\obj\Debug\QLNT.Form2.resources
+H:\qlnt\qlnt\QLNT\QLNT\obj\Debug\QLNT.Form3.resources
+H:\qlnt\qlnt\QLNT\QLNT\obj\Debug\QLNT.Login.resources
+H:\qlnt\qlnt\QLNT\QLNT\obj\Debug\QLNT.Properties.Resources.resources
+H:\qlnt\qlnt\QLNT\QLNT\obj\Debug\QLNT.csproj.GenerateResource.cache
+H:\qlnt\qlnt\QLNT\QLNT\obj\Debug\QLNT.csproj.CoreCompileInputs.cache
+H:\qlnt\qlnt\QLNT\QLNT\obj\Debug\QLNT.exe
+H:\qlnt\qlnt\QLNT\QLNT\obj\Debug\QLNT.pdb
